@@ -10,7 +10,6 @@ Each project focuses on practicing core programming concepts, problem-solving, a
 ## ⚙️ Technologies Used
 - **Python 3**
 - **Tkinter** (for GUI-based apps)
-- **OS / Sys / Random** modules
 - **Other standard libraries**
 
 ---
